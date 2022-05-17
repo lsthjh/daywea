@@ -4,7 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/activity_weather.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/aqi.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/choose_area.xml" value="0.25" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/forecast.xml" value="0.31574074074074077" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/forecast_item.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/forecast_layout.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/fragment_choose_area.xml" value="0.325" />
         <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/now.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/suggestion.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/layout/title.xml" value="0.1" />
+        <entry key="..\:/StorageBox/Documents/Android/Daywea/app/src/main/res/xml/network_security_config.xml" value="0.1" />
       </map>
     </option>
   </component>
